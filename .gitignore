@@ -117,6 +117,12 @@ _TeamCity*
 *.coverage
 *.coveragexml
 
+# Visual Studio Code workspace files
+*.code-workspace
+
+# Visual Studio Code configuration files
+.vscode/
+
 # NCrunch
 _NCrunch_*
 .*crunch*.local.xml
